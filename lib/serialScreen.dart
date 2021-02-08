@@ -39,7 +39,7 @@ class SerialScreen extends StatelessWidget {
                     child: Column(
                       children: <Widget>[
                         Container(
-                          height: 180,
+                          height: 170,
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(5),
                             image: DecorationImage(
@@ -56,7 +56,7 @@ class SerialScreen extends StatelessWidget {
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                             fontFamily: 'LemonMilk',
-                            fontSize: 18),
+                            fontSize: 16),
                             textAlign: TextAlign.center,
                         )
                       ],

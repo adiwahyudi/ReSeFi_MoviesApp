@@ -49,6 +49,7 @@ class DetailFilm extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 30.0,
                   fontWeight: FontWeight.bold,
+                  fontFamily: 'LemonMilk'
                 ),
               ),
             ),
@@ -65,6 +66,7 @@ class DetailFilm extends StatelessWidget {
                         pilm.ratingF,
                         style: TextStyle(
                           fontWeight: FontWeight.bold,
+                          color: Colors.yellow,
                         ),
                       ),
                     ],
@@ -96,7 +98,7 @@ class DetailFilm extends StatelessWidget {
                   Text(
                     pilm.deskripsiF,
                   style: TextStyle(
-                    fontWeight: FontWeight.normal,
+                    fontWeight: FontWeight.bold,
                     fontFamily: 'BonVoyage',
                     fontSize: 16, 
                     ),

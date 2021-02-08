@@ -38,7 +38,7 @@ class FilmScreen extends StatelessWidget {
                     child: Column(
                       children: <Widget>[
                         Container(
-                          height: 180,
+                          height: 170,
                           decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(5),
                             image: DecorationImage(
@@ -145,7 +145,7 @@ var IsiSerial = [
     deskripsiS: 'The Mandalorian adalah seri televisi web opera antariksa Amerika Serikat yang dijadwalkan tayang perdana di Disney+ pada 12 November 12 2019. Seri televisi ini dibintangi Pedro Pascal, Gina Carano, Nick Nolte, Giancarlo Esposito, Emily Swallow, Carl Weathers, Omid Abtahi, dan Werner Herzog. Musim pertama seri televisi ini akan diisi oleh delapan episode',
     sutradaraS: 'Jon Favreau',
     pemainS: 'Pedro Pascal, Gina Carano, Giancarlo Esposito.',
-    posterS: 'https://cdn.antaranews.com/cache/800x533/2020/09/03/20200902_231900.jpg',
+    posterS: 'https://images-na.ssl-images-amazon.com/images/I/51B-8V3tMCL._AC_SL1030_.jpg',
     statusS: 'On-Going.',
     gambarAwalS: 'https://otakukart.com/wp-content/uploads/2020/12/The-Mandalorian-season-3.jpg',
     gambarIsiS: [

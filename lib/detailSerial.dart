@@ -98,7 +98,7 @@ class DetailSerial extends StatelessWidget {
                   Text(
                     serial.deskripsiS,
                   style: TextStyle(
-                    fontWeight: FontWeight.normal,
+                    fontWeight: FontWeight.bold,
                     fontFamily: 'BonVoyage',
                     fontSize: 16, 
                     ),
