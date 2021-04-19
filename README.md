@@ -1,6 +1,6 @@
-# movies_app
+# Movies App
 
-A new Flutter project.
+A submission Flutter project for Dicoding Indonesia.
 
 ## Getting Started
 
